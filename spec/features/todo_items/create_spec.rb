@@ -9,7 +9,7 @@ it "is successful with valid content" do
   fill_in "Content", with: "Added this item"
   click_button "Save"
   expect(page).to have_content ("Added todo list item")
-  within ("ul.todo_items") do
+  within ("tbody") do
     expect(page).to have_content("Added this item")
 end
 end
