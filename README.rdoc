@@ -1,28 +1,11 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Todo List App - Etai Klein
 
-Things you may want to cover:
+* Ruby 2.1.2, Rails 4.1.1
 
-* Ruby version
+* Testing with Rspec
 
-* System dependencies
+* Based off of tutorials from teamtreehouse.com
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Find it online at http://vast-everglades-6457.herokuapp.com/
